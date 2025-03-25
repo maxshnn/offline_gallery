@@ -1,16 +1,9 @@
-# offline_gallery
+# Offline gallery
 
-A new Flutter project.
+На своей локальной машине я использую FVM, версия flutter 3.27.1.
 
-## Getting Started
+Кодогенерации здесь нет, поэтому кодогенерацию проводить не надо 😃.
 
-This project is a starting point for a Flutter application.
+Кнопка обновить в приложении намерено в не зависимости от есть ли подключение к интернету или нет, попытается получить данные с сервера. Interceptor словит ошибку и выведет текст в UI.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Спасибо за внимание)
